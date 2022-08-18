@@ -65,5 +65,4 @@ public class ReverseInteger {
         System.out.println("Original number: " + test);
         System.out.println("Reversed: " + reverseInteger(test) + "\n");
     }
-    
 }
