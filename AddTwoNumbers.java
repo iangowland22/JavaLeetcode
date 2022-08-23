@@ -28,7 +28,7 @@ has all of the ListNode building hardcoded. I definitely need more practice with
 and data structures in general.
 
 I also changed the prompt to return the sum of the values stored in each node instead of
-returned the revesed sum as a ListNode object with each digit stored in reverse, like the two 
+returning the revesed sum as a ListNode object with each digit stored in reverse, like the two 
 ListNode objects that are added to each other.
 
  */
