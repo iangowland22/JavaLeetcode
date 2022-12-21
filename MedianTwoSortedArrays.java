@@ -19,6 +19,8 @@ NOTE: This exercise specified a time complexity of O(log(m+n)), which mine is no
 so I omitted this from this prompt. I also left in some notes to explain my thought
 process as if a student was reading it.
 
+I might have another way to do this which I'm going to try tomorrow.
+
  */
 
  /**
@@ -123,7 +125,7 @@ public class MedianTwoSortedArrays {
         // Two arrays for testing 
 
         int[] one = {1,2,7,8,9,13,27,545,652,897,1235};
-        int[] two = {26,28,31,45,67,9999,};
+        int[] two = {26,28,31,45,67,9999};
         System.out.print("First array: ");
         printArray(one);
         System.out.print("Second array: ");
