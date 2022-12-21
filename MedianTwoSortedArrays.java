@@ -19,7 +19,7 @@ NOTE: This exercise specified a time complexity of O(log(m+n)), which mine is no
 so I omitted this from this prompt. I also left in some notes to explain my thought
 process as if a student was reading it.
 
-I might have another way to do this which I'm going to try tomorrow.
+I might have a better way to do this which I'm going to try tomorrow.
 
  */
 
