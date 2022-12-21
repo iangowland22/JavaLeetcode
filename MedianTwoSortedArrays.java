@@ -108,7 +108,7 @@ public class MedianTwoSortedArrays {
 
         Example: 1,2,3,4,5,6,7,8,9,10
 
-        The median is between the two most middle elements: 5 and 6 
+        The median is between the two middle elements: 5 and 6 
         The median in this example is: 5.5 (5 + 6 / 2.0)
 
         */
