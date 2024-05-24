@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/**
+ * 5/23/24
+ * Update this to short circuit when the left-most index does not match the right-most index 
+ */
+
 /*
 Given an integer x, return true if x is a palindrome integer.
 An integer is a palindrome when it reads the same backward as forward.
