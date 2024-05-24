@@ -17,7 +17,7 @@ Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
 NOTE: This exercise specified a time complexity of O(log(m+n)), which mine is not, 
 so I omitted this from this prompt. I also left in some notes to explain my thought
-process as if a student was reading it.
+process so that a student may understand it.
 
 I might have a better way to do this which I'm going to try tomorrow.
 
@@ -100,6 +100,9 @@ public class MedianTwoSortedArrays {
         if(merged.length % 2 != 0){
             return merged[(merged.length/2)];
         } 
+
+        System.out.println("Merged array:");
+        printArray(merged);
 
         /*
         If the merged array is an even number of elements the two middle adjacent
