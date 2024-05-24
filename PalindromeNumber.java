@@ -59,6 +59,8 @@ public class PalindromeNumber {
         int inputNumber = keyboard.nextInt();
         checkPalindrome(inputNumber);
         keyboard.close();
+
+        // test
     }
     
 }
