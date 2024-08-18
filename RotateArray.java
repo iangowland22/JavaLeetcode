@@ -45,8 +45,12 @@ public class RotateArray {
         int[] example1 = {1,2,3,4,5,6,7};
         int[] rotated = rotateArray(example1, 3);
         PrintArray.print(rotated);
+        // example 2
         int[] example2 = {-1, 100, 3, 99};
         rotated = rotateArray(example2, 2);
+        PrintArray.print(rotated);
+        // test rotations beyond length of array
+        rotated = rotateArray(example1, 10);
         PrintArray.print(rotated);
     }    
 }
