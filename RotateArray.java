@@ -27,7 +27,6 @@ public class RotateArray {
             rotations = rotations % arr.length;
         }
         int[] rotated = new int[arr.length];
-        int rotationCount = 0;
         int startIndex = (arr.length)-rotations;
         for(int i = 0; i < arr.length; i++) {
             rotated[i] = arr[startIndex];
